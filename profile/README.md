@@ -7,3 +7,5 @@ Everything in SASjs is MIT open source and free for commercial use.  It's backed
 The framework also underpins, and is used extensively by, [Data Controller for SAS®](https://datacontroller.io) - a free web app for controlled business data capture that works on ALL SAS platforms (Viya, EBI, Base). 
 
 If you'd like to touch base with other SASjs users, and ourselves, you are free to join our public [Matrix room](https://matrix.to/#/#sasjs:4gl.io).
+
+*Note:* The SASjs project and its repositories are not affiliated with SAS Institute.
